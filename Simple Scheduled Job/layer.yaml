@@ -1,0 +1,24 @@
+id: 18929f2f-53d9-47a7-ac4a-a41508d2341f
+name: Simple Scheduled Job
+type: 5
+canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+blocks:
+- auto_size: false
+  canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
+  id: c2af4073-ca07-422e-818e-a2456d3e6c09
+  layer_id: 18929f2f-53d9-47a7-ac4a-a41508d2341f
+  memory: 16384
+  name: '1'
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 1
+  variables: null
+  width: 800
+  x: -10
+  y: 15
+edges: []

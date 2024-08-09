@@ -1,0 +1,219 @@
+id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+name: Simple Canvas
+project_id: 69153a8b-971e-4469-8efe-4c682f309de6
+global_imports: []
+requirements:
+- seaborn==0.12.2
+- wordcloud==1.9.2
+- scikit-learn==1.2.2
+- scipy==1.10.1
+- jsii==1.82.0
+- transformers==4.39.3
+- plotly==5.14.1
+- huggingface_hub==0.22.2
+- pygithub>=2.1.1
+- aws-cdk-lib==2.81.0
+- beautifulsoup4==4.10.0
+- datasets==2.18.0
+- nltk==3.7
+linux_packages: []
+environment_variables: []
+is_public: false
+workspace_id: null
+layers:
+- blocks:
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: 388c6472-3ec4-4df8-8c97-b9c7fccc0d63
+    layer_id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+    memory: 16384
+    name: '3'
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -5551
+    y: 1809
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: f6cf1774-5cf1-42d9-a822-0892cae1001e
+    layer_id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+    memory: 16384
+    name: '4'
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -5353
+    y: 2700
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: 5a1a5d21-f302-46ab-813e-e96961d3ed84
+    layer_id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+    memory: 16384
+    name: '5'
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -3661
+    y: -294
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: c1d16bf2-0974-48a3-a370-7cc165ebfdef
+    layer_id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+    memory: 16384
+    name: '7'
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -3491
+    y: 1745
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: e8d5abec-0bb9-44e3-9fe1-b26cbc3c30d8
+    layer_id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+    memory: 16384
+    name: '8'
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -3250
+    y: 2605
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: fbbc041f-8e35-495c-9dc6-b93fbd8a5c6b
+    layer_id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+    memory: 16384
+    name: '6'
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -3879
+    y: 799
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 1024
+    description: ''
+    height: 500
+    id: 5a5c90a5-94e7-4f3c-8cca-0361e8a4fd27
+    layer_id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+    memory: 8192
+    name: '2'
+    parent_id: null
+    properties:
+      state_variables:
+      - creator_block_id: 4f61f54d-3a44-46ba-afb2-d347f044cecd
+        name: my_var
+        source_block_id: 4f61f54d-3a44-46ba-afb2-d347f044cecd
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -5466
+    y: 599
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: 4f61f54d-3a44-46ba-afb2-d347f044cecd
+    layer_id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+    memory: 16384
+    name: '1'
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -5283
+    y: -196
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: e7384dd7-f620-4f29-a088-0e39ba689b94
+    layer_id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+    memory: 16384
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -5294
+    y: -800
+  canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+  edges: []
+  id: 80ef87e1-f056-4901-8bc7-94b24334bf38
+  name: Development
+  type: 1
+- blocks:
+  - auto_size: false
+    canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: c2af4073-ca07-422e-818e-a2456d3e6c09
+    layer_id: 18929f2f-53d9-47a7-ac4a-a41508d2341f
+    memory: 16384
+    name: '1'
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: -10
+    y: 15
+  canvas_id: 619e481d-c2e8-4b2c-ab63-97b032d24a7a
+  edges: []
+  id: 18929f2f-53d9-47a7-ac4a-a41508d2341f
+  name: Simple Scheduled Job
+  type: 5
