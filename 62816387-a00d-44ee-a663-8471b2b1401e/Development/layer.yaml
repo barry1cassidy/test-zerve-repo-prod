@@ -1,0 +1,40 @@
+id: 24f7a5b4-5da3-48cb-ae9c-d6ac02ad0774
+name: Development
+type: 1
+canvas_id: 62816387-a00d-44ee-a663-8471b2b1401e
+blocks:
+- auto_size: false
+  canvas_id: 62816387-a00d-44ee-a663-8471b2b1401e
+  compute_settings:
+    compute_environment_type: 1
+  description: ''
+  height: 500
+  id: 9e4af965-f6b8-41c4-92e0-c16521e5970e
+  layer_id: 24f7a5b4-5da3-48cb-ae9c-d6ac02ad0774
+  name: R Block
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 2
+  variables: null
+  width: 800
+  x: 1218
+  y: 284
+- auto_size: false
+  canvas_id: 62816387-a00d-44ee-a663-8471b2b1401e
+  compute_settings:
+    compute_environment_type: 1
+  description: ''
+  height: 500
+  id: e1fe0fd8-0303-4888-ad45-dff0d3a2283e
+  layer_id: 24f7a5b4-5da3-48cb-ae9c-d6ac02ad0774
+  name: '1'
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 1
+  variables: null
+  width: 800
+  x: 298
+  y: 36
+edges: []
